@@ -1,0 +1,3 @@
+CRITICAL - 2026-05-12 02:29:02 --> Cannot redeclare App\Controllers\Home::circle()
+in APPPATH\Controllers\Home.php on line 58.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
